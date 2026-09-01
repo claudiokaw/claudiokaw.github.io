@@ -15,7 +15,7 @@ Hands-on walkthroughs on AI, machine learning, and the algorithms behind them.
     <h2 class="archive__item-title" style="margin-top:0;">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
-    <p class="page__meta" style="color:#888;font-size:.8em;">{{ post.date | date: "%B %-d, %Y" }} · {% include read-time.html %}</p>
+    <p class="page__meta" style="color:#888;font-size:.8em;">{{ post.date | date: "%B %-d, %Y" }}</p>
     <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
   </div>
 {% endfor %}
