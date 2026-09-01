@@ -47,8 +47,7 @@ Articles vs. tutorials are separated by the post's `categories` field:
   it with a square photo (same filename), ~500×500px.
 - **About text** — `index.md` is drafted from your background; paste your exact
   LinkedIn "About" text if you prefer.
-- **CV PDF (optional)** — drop `cv.pdf` into `assets/files/` and uncomment the
-  download line noted at the top of `_pages/cv.md`.
+- **CV link** — the CV page links to LinkedIn instead of hosting a PDF (a public PDF would expose personal contact details, e.g. a phone number, to scrapers). If you ever want a downloadable CV, add a phone-redacted `cv.pdf` to `assets/files/` and point the button at it.
 
 ## Add new content
 

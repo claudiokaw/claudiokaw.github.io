@@ -6,56 +6,54 @@ author_profile: true
 classes: wide
 ---
 
-I am **Cláudio Amorim**, a payments and IT architect and computer scientist
-based in São Paulo, Brazil. I currently work as a **Professional Services
-Architect (Senior)** at **FIS**, where I define the technical architecture for
-payments projects across Brazil and Latin America. Over more than two decades in
-technology — sixteen of them focused on Brazil's payments ecosystem — I have
-learned to move between the messy realities of production financial
-infrastructure and the clean abstractions of algorithms and mathematics.
+I'm **Cláudio Amorim** — a solutions architect with over 24 years in technology,
+16 of them dedicated to Brazil's payments ecosystem.
 
-What keeps me curious is the space *between* disciplines. I study **mathematical
-algorithms and computational theory**, and I am fascinated by how the same ideas
-resurface in biological systems and in the infrastructure that runs the economy.
-I think of it as a two-way street: biology inspires distributed optimization
-methods, while mathematical tools — the Network Simplex algorithm, for
-instance — help explain how biological networks self-organize.
+At **FIS** I work as a Senior IT Architect, defining the architectural direction
+for payments projects across Brazil and Latin America. I have an end-to-end view
+of the card transaction lifecycle — from POS/e-commerce capture through to issuer
+approval — spanning switching, acquiring, settlement, dispute management, applied
+cryptography (Cryptography I, Stanford/Coursera), and 3-D Secure (3DS). I have
+contributed to certifications with Visa, Mastercard, Elo, and Amex at FIS, and
+Mastercard at Superdigital, including Visa Smart Debit & Credit (chip and
+contactless).
 
-## What I work on
+One project I'm especially proud of was at **Alelo**: we redesigned transaction
+processing at the settlement layer to guarantee idempotency and fault tolerance,
+eliminating interruptions and reducing critical incidents — applying dependability
+principles and optimizing DORA metrics, because everything needs to be measured.
+On the architecture side, I work with microservices, APIs, and messaging
+(Apache Kafka, Amazon SNS/SQS, Kinesis).
 
-Alongside my industry role, I am a **collaborating researcher (volunteer) at
-UFABC**, working under Prof. Dr. Luiz C. S. Rozante on **coupled Boolean
-networks**. I explore the Network Simplex algorithm through a broad, horizontal
-lens — surveying where it shows up across domains rather than drilling into a
-single application — and I apply machine learning to hard prediction problems in
-my spare time (see [Competitions]({{ "/competitions/" | relative_url }})).
+Academically, I hold an **M.Sc. in Computer Science from UFABC** (dissertation on
+blockchain applied to financial transactions), a **B.Sc. from Mackenzie** (thesis
+on DNA computing), and a **specialization in Artificial Intelligence from UFV**.
+I'm pursuing a postgraduate program in **Quantum Computing at PUC Minas**, and I'm
+a volunteer collaborating researcher at **UFABC** (Programa Pesquisador
+Colaborador / Propes), under Prof. Dr. Luiz C. S. Rozante, working on **coupled
+Boolean networks applied to systems biology**. I also take part in the
+**NIAS-IA (UFV)** competitions, where I earned a **Kaggle Silver Medal** (151st of
+3,677 teams) in the Hull Tactical – Market Prediction challenge.
 
-## Research interests
+## In the corporate world
 
-- **Algorithms & computational theory** — combinatorial optimization, network
-  flow, and the Network Simplex algorithm across domains.
-- **Bio-inspired computing** — vascular networks, *Physarum polycephalum* as a
-  natural optimizer, Flux Balance Analysis, and ecological networks.
-- **Payment & settlement systems** — Brazil's financial infrastructure, with an
-  eye on STR, PIX, SELIC, and liquidation modalities.
-- **Machine learning** — applied ML for forecasting and market prediction.
-- **Quantum computing** — an emerging interest I am formalizing through
-  graduate study.
+Architecture of distributed systems and microservices, SRE, information security,
+BACEN compliance, and building high-performance technical teams.
 
-## Background
+## In research
 
-I hold an **M.Sc. in Computer Science from UFABC** and a **B.Sc. in Computer
-Science from Universidade Presbiteriana Mackenzie**, and I am a specialist in
-**Artificial and Computational Intelligence (UFV)**. In 2026–2027 I am pursuing
-a *lato sensu* postgraduate program in **Quantum Computing at PUC Minas**, and in
-2025 I completed an extension course in **Statistics and Optimization for Data
-Science and Operations Research at ICMC-USP**. Earlier in my career I spent two
-years as a substitute professor at what is today the Instituto Federal do Norte
-de Minas (Salinas campus).
+Quantum computing, post-quantum cryptography, DNA / molecular computing,
+neuromorphic computing, physics-informed neural networks (PINNs), combinatorial
+optimization, graph theory, Boolean networks, and machine learning applied to
+time series.
 
-You can read more in my [CV]({{ "/cv/" | relative_url }}), browse my [projects]({{ "/projects/" | relative_url }}), or dive
-into my [articles]({{ "/articles/" | relative_url }}) and [tutorials]({{ "/tutorials/" | relative_url }}) on AI and machine
-learning.
+---
 
-> This bio is a starting point drawn from my professional background — feel free
-> to swap in the exact text from my LinkedIn "About" section.
+I believe the best advances in engineering are born at the crossroads of academic
+rigor and corporate pragmatism — and that intersection is exactly where I try to
+contribute.
+
+You can read more in my [CV]({{ "/cv/" | relative_url }}), browse my
+[projects]({{ "/projects/" | relative_url }}), or explore my
+[articles]({{ "/articles/" | relative_url }}) and
+[tutorials]({{ "/tutorials/" | relative_url }}) on AI and machine learning.

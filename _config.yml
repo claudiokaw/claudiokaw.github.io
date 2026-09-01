@@ -40,10 +40,7 @@ author:
       url: "https://github.com/claudiokaw"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR-LINKEDIN" # <-- update
-    - label: "Kaggle"
-      icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/YOUR-KAGGLE" # <-- update
+      url: "https://www.linkedin.com/in/claudio-ribeiro-de-amorim-b45a911b/"
 
 # Footer links
 footer:
@@ -53,7 +50,7 @@ footer:
       url: "https://github.com/claudiokaw"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR-LINKEDIN"
+      url: "https://www.linkedin.com/in/claudio-ribeiro-de-amorim-b45a911b/"
 
 # ============================================================
 # Build settings
