@@ -19,7 +19,7 @@ flow problems wherever they arise.
 
 - Classical operations-research formulations of min-cost flow.
 - Connections to biological transport networks and self-organization.
-- Pedagogical write-ups (see the [Tutorials](/tutorials/) section).
+- Pedagogical write-ups (see the [Tutorials]({{ "/tutorials/" | relative_url }}) section).
 
 ## Status
 

@@ -1,4 +1,4 @@
-# claudiokaw.github.io
+# claudio-amorim.github.io
 
 Personal website / portfolio built with **Jekyll** and the **Minimal Mistakes**
 theme (loaded via `remote_theme`, so it builds natively on GitHub Pages — no
@@ -22,7 +22,7 @@ Articles vs. tutorials are separated by the post's `categories` field:
 
 ## Publish to GitHub Pages
 
-1. Create a **public** repo on GitHub named exactly **`claudiokaw.github.io`**
+1. Create a **public** repo on GitHub named exactly **`claudio-amorim.github.io`**
    (empty — no README/license).
 2. From this folder:
 
@@ -31,13 +31,13 @@ Articles vs. tutorials are separated by the post's `categories` field:
    git add .
    git commit -m "Initial site"
    git branch -M main
-   git remote add origin https://github.com/claudiokaw/claudiokaw.github.io.git
+   git remote add origin https://github.com/claudiokaw/claudio-amorim.github.io.git
    git push -u origin main
    ```
 
 3. On GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a
    branch**, branch **`main`**, folder **`/ (root)`**. Save.
-4. Wait ~1–2 minutes. Your site goes live at **https://claudiokaw.github.io**.
+4. Wait ~1–2 minutes. Your site goes live at **https://claudiokaw.github.io/claudio-amorim.github.io/**.
 
 ## Before (or right after) you publish — fill in the placeholders
 

@@ -28,7 +28,7 @@ UFABC**, working under Prof. Dr. Luiz C. S. Rozante on **coupled Boolean
 networks**. I explore the Network Simplex algorithm through a broad, horizontal
 lens — surveying where it shows up across domains rather than drilling into a
 single application — and I apply machine learning to hard prediction problems in
-my spare time (see [Competitions](/competitions/)).
+my spare time (see [Competitions]({{ "/competitions/" | relative_url }})).
 
 ## Research interests
 
@@ -53,8 +53,8 @@ Science and Operations Research at ICMC-USP**. Earlier in my career I spent two
 years as a substitute professor at what is today the Instituto Federal do Norte
 de Minas (Salinas campus).
 
-You can read more in my [CV](/cv/), browse my [projects](/projects/), or dive
-into my [articles](/articles/) and [tutorials](/tutorials/) on AI and machine
+You can read more in my [CV]({{ "/cv/" | relative_url }}), browse my [projects]({{ "/projects/" | relative_url }}), or dive
+into my [articles]({{ "/articles/" | relative_url }}) and [tutorials]({{ "/tutorials/" | relative_url }}) on AI and machine
 learning.
 
 > This bio is a starting point drawn from my professional background — feel free

@@ -9,8 +9,8 @@ description: >-
   scientist working at the intersection of mathematical algorithms,
   bio-inspired computing, and real-world financial infrastructure.
 url: "https://claudiokaw.github.io"
-baseurl: ""
-repository: "claudiokaw/claudiokaw.github.io"
+baseurl: "/claudio-amorim.github.io"
+repository: "claudiokaw/claudio-amorim.github.io"
 locale: "en-US"
 words_per_minute: 200
 
