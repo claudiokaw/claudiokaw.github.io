@@ -47,7 +47,7 @@ America. (Role originally contracted as *IT Architect Senior*, renamed internall
 ## Contact
 
 - Email: [claudiokaw@gmail.com](mailto:claudiokaw@gmail.com)
-- GitHub: [github.com/claudio-amorim](https://github.com/claudio-amorim)
+- GitHub: [github.com/claudiokaw](https://github.com/claudiokaw)
 
 ---
 

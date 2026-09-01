@@ -8,9 +8,9 @@ description: >-
   Personal site of Cláudio Amorim — IT / Payments Architect and computer
   scientist working at the intersection of mathematical algorithms,
   bio-inspired computing, and real-world financial infrastructure.
-url: "https://claudio-amorim.github.io"
+url: "https://claudiokaw.github.io"
 baseurl: ""
-repository: "claudio-amorim/claudio-amorim.github.io"
+repository: "claudiokaw/claudiokaw.github.io"
 locale: "en-US"
 words_per_minute: 200
 
@@ -37,7 +37,7 @@ author:
       url: "mailto:claudiokaw@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/claudio-amorim"
+      url: "https://github.com/claudiokaw"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/YOUR-LINKEDIN" # <-- update
@@ -50,7 +50,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/claudio-amorim"
+      url: "https://github.com/claudiokaw"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/YOUR-LINKEDIN"
