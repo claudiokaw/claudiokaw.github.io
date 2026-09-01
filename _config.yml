@@ -1,0 +1,122 @@
+# ============================================================
+# Site settings
+# ============================================================
+title: "Cláudio Amorim"
+name: "Cláudio Amorim"
+email: claudiokaw@gmail.com
+description: >-
+  Personal site of Cláudio Amorim — IT / Payments Architect and computer
+  scientist working at the intersection of mathematical algorithms,
+  bio-inspired computing, and real-world financial infrastructure.
+url: "https://claudiokaw.github.io"
+baseurl: ""
+repository: "claudiokaw/claudiokaw.github.io"
+locale: "en-US"
+words_per_minute: 200
+
+# ============================================================
+# Theme (builds natively on GitHub Pages — no Actions needed)
+# ============================================================
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "air" # options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+search: true
+search_full_content: true
+
+# ============================================================
+# Author profile (sidebar)
+# ============================================================
+author:
+  name: "Cláudio Amorim"
+  avatar: "/assets/images/avatar.jpg" # add a square photo here (see README)
+  bio: "Payments Architect & computer scientist. Algorithms × biology × financial infrastructure."
+  location: "São Paulo, Brazil"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:claudiokaw@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/claudiokaw"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/YOUR-LINKEDIN" # <-- update
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/YOUR-KAGGLE" # <-- update
+
+# Footer links
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/claudiokaw"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/YOUR-LINKEDIN"
+
+# ============================================================
+# Build settings
+# ============================================================
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+paginate_path: /blog/page:num/
+timezone: America/Sao_Paulo
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# ============================================================
+# Collections
+# ============================================================
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# ============================================================
+# Defaults
+# ============================================================
+defaults:
+  # Blog posts (articles & tutorials)
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      show_date: true
+  # Static pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # Projects collection
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

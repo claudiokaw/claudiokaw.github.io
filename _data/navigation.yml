@@ -1,0 +1,13 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Articles"
+    url: /articles/
+  - title: "Tutorials"
+    url: /tutorials/
+  - title: "Competitions"
+    url: /competitions/
+  - title: "CV"
+    url: /cv/
