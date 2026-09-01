@@ -17,7 +17,7 @@ words_per_minute: 200
 # ============================================================
 # Theme (builds natively on GitHub Pages — no Actions needed)
 # ============================================================
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air" # options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
 search: true
